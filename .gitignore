@@ -6,8 +6,10 @@ __pycache__/
 
 #this folder contain 15 original videos for ground truth
 xiaochun_data_4_11_22_2023/video/origenal/  
+#this folder contain 15 edited original videos for ground truth
+xiaochun_data_4_11_22_2023/video/hand/  
 
-#this folder contain 15 original audio
+#this folder contain 15 original audio for MIC 0 and 2
 xiaochun_data_4_11_22_2023/audio/origin/
 
 #environments
