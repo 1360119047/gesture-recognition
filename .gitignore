@@ -1,8 +1,18 @@
-xiaochun_data_3_11_22_2023/
-xiaochun_data_test/
+#this is is another set of data which no been in use
+xiaochun_data_3_11_22_2023/ 
+#this is is another set of data which no been in use
+xiaochun_data_test/    
 __pycache__/
-data/
-xiaochun_data_4_11_22_2023/video/origenal/
-xiaochun_data_4_11_22_2023/audio/v/
-xiaochun_data_4_11_22_2023/dataset/v/
-xiaochun_data_4_11_22_2023/dataset/v11/
+
+#this folder contain 15 original videos for ground truth
+xiaochun_data_4_11_22_2023/video/origenal/  
+
+#this folder contain 15 original audio
+xiaochun_data_4_11_22_2023/audio/origin/
+
+#environments
+data/           
+xiaochun_data_4_11_22_2023/audio/v/        
+xiaochun_data_4_11_22_2023/dataset/v/        
+xiaochun_data_4_11_22_2023/dataset/v11/       
+xiaochun_data_4_11_22_2023/video/v/       
