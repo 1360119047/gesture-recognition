@@ -17,4 +17,13 @@ data/
 xiaochun_data_4_11_22_2023/audio/v/        
 xiaochun_data_4_11_22_2023/dataset/v/        
 xiaochun_data_4_11_22_2023/dataset/v11/       
-xiaochun_data_4_11_22_2023/video/v/       
+xiaochun_data_4_11_22_2023/video/v/
+
+# skip all the audio files
+*.wav
+*.csv 
+*.cvs 
+*.png
+*.mp4
+*.RAW
+*.7z
