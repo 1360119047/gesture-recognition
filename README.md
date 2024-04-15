@@ -1,5 +1,4 @@
-the repo is incomple. you can find how it look like in [subtract_data.txt](
-gesture-recognition/subtract_data.txt)
+the repo is incomple. you can find how it look like in [subtract_data.txt](/subtract_data.txt)
 
 The goal of this project is to use data collect by MIC and IMU data to do reconization, you can find more info here
 https://docs.google.com/presentation/d/1lcTPnxFe2JT8OKlVd3GqUNlWWhBYevT8/edit?usp=sharing&ouid=109552043465733562677&rtpof=true&sd=true
